@@ -18,7 +18,7 @@
         <junit.version>4.12</junit.version>
         <fastjson.version>1.2.67</fastjson.version>
         <commons-lang3.version>3.9</commons-lang3.version>
-        <commons-io.version>2.6</commons-io.version>
+        <commons-io.version>2.7</commons-io.version>
         <spring.version>5.2.4.RELEASE</spring.version>
 
         <log4j.version>2.11.2</log4j.version>
